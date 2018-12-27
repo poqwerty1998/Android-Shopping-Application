@@ -3,7 +3,7 @@ This was a project completed over the course of 4 months in my software design c
 
 Some functionalities that this application includes:
 
-  Admin:
+  Admin user:
 
   - adding new items to the list of things that could be purchased
 
@@ -11,7 +11,7 @@ Some functionalities that this application includes:
 
   - creating additional admin accounts
 
-  Customer:
+  Customer user:
 
   - creating an account to shop with
 
